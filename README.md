@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Boopathi02
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently Working on Frontend developer
 - 💞️ I’m looking to collaborate on Full stack Developer
 - 📫 How to reach me by mail(bt39719@gmail.com)
 
